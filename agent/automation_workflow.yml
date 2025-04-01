@@ -1,0 +1,23 @@
+weekly_newsletter_workflow:
+  schedule: "Every Monday at 9:00 AM"
+  
+  steps:
+    1. Content Generation:
+      - Use ChatGPT to generate module-specific content
+      - Fetch latest AI news using RSS feeds
+      - Generate practical tips based on course material
+    
+    2. Content Curation:
+      - Filter relevant news items
+      - Match content to newsletter sections
+      - Generate engaging headlines
+    
+    3. Newsletter Assembly:
+      - Format content using template
+      - Generate images using Midjourney/DALL-E
+      - Add CTAs and links
+    
+    4. Review & Distribution:
+      - AI grammar and tone check
+      - Schedule social media snippets
+      - Prepare email distribution 

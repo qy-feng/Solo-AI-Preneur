@@ -1,0 +1,8 @@
+pre_send_checklist:
+  - Verify all links are working
+  - Check content alignment with course modules
+  - Ensure proper formatting
+  - Verify personalization tokens
+  - Check mobile responsiveness
+  - Review AI-generated content for accuracy
+  - Ensure CTA placement and tracking 
